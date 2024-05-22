@@ -1,0 +1,19 @@
+#btn{
+    margin-top: 400px;
+    width: 200px;
+    height: 60px;
+    font-size: 25px;
+    background-color: black;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    transition: 0.5s linear;
+}
+
+#btn:hover{
+    background-color: whitesmoke;
+    color: black;
+    border: 1px solid black;
+
+}
